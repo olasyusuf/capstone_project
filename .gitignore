@@ -1,0 +1,5 @@
+# env files (can opt-in for committing if needed)
+.venv*
+__pycache__
+__pycache__/
+.env
